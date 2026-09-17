@@ -69,7 +69,7 @@ Small ritual, big difference for avoiding burnout.
 Writing a great prompt from scratch every time isn't sustainable — that's exactly the gap [PromptShort - Awesome Prompt Library](https://promptshort.com) is built to fill. It's a curated collection of ready-to-use prompts across productivity, writing, coding, marketing, and more, so you can skip the trial-and-error and get straight to results.
  
 Bookmark it, browse by category, and swap in your own details wherever you see brackets.
- 
 ---
  
 *Have a favorite productivity prompt that didn't make this list? Save it, refine it, and share it — the best prompt libraries grow from real use, not theory.*
+Sources: [Chatgpt](https://chatgpt.com/share/6aac3408-1298-83e8-9642-362150fbe11a), [Claude](https://claude.ai/share/1bf6c11e-4fe4-4f5d-bdd8-e7c8d003047f)
